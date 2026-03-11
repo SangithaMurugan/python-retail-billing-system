@@ -1,4 +1,4 @@
-# python-retail-billing-system
+# Retail Billing System (Python)
 
 Introduction
 
